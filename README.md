@@ -8,7 +8,7 @@ Repositorio del módulo de Sistemas Informáticos de 1º de DAM. Este módulo te
     <a href="">Historia de la información</a>
   </li>
   <li>
-    <a href="">Diseño Conceptual</a>
+    <a href="">Hardware de un sistema informático</a>
   </li>
   <li>
     <a href="">Diseño Relacional</a>
