@@ -11,18 +11,15 @@ Repositorio del módulo de Sistemas Informáticos de 1º de DAM. Este módulo te
     <a href="">Hardware de un sistema informático</a>
   </li>
   <li>
-    <a href="">Diseño Relacional</a>
+    <a href="">Redes de ordenadores</a>
   </li>
   <li>
-    <a href="">Diseño Físico</a>
+    <a href="">Software de un sistema informático</a>
   </li>
   <li>
-    <a href="">Consultas en SQL</a>
+    <a href="">Virtualización</a>
   </li>
   <li>
-    <a href="">INSERT, UPDATE, DELETE</a>
-  </li>
-  <li>
-    <a href="">Programación de bases de datos relacionales</a>
+    <a href="">Sistemas operativos Windows</a>
   </li>
 </ol>
