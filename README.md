@@ -8,7 +8,7 @@ Repositorio del módulo de Sistemas Informáticos de 1º de DAM. Este módulo te
     <a href="https://github.com/Olmedo30/SistemasInformaticos-01-2023-2024">Historia de la información</a>
   </li>
   <li>
-    <a href="">Hardware de un sistema informático</a>
+    <a href="https://github.com/Olmedo30/SistemasInformaticos-02-2023-2024">Hardware de un sistema informático</a>
   </li>
   <li>
     <a href="">Redes de ordenadores</a>
